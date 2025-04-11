@@ -1,4 +1,5 @@
-start.bat
+start.bat 
+server/venv/
 
 # Зависимости
 node_modules/
